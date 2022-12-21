@@ -9,3 +9,11 @@
 - python manage.py startapp NameApp
 ## Acces Shell
 - python manage.py shell 
+## Create Admin user
+- python manage.py createsuperuser  
+
+
+## Migration Systeme
+
+- python manage.py migrate 
+- python manage.py makemigrations   
